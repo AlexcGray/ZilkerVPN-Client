@@ -10,16 +10,16 @@
 
 From the start menu, select "Qt" > "Qt 5.x 64-bit for Desktop (MSVC 2015)", which will open a terminal window:
 
-    > cd \path\to\azclient
+    > cd \path\to\zvpnclient
     > qmake
 
 Next, from the start menu, select "Visual Studio 2015" > "Visual Studio Tools" > "WIndows Desktop Command Prompts" > "VS2015 x64 Native Tools Command Prompt", which will open a terminal window:
 
-    > cd \path\to\azclient
+    > cd \path\to\zvpnclient
     > nmake
     > nmake installer
 
-Then find the installer in `dist\win\AzireVPN-x.y.exe`.
+Then find the installer in `dist\win\ZilkerVPN-x.y.exe`.
 
 ### Upkeep
 
